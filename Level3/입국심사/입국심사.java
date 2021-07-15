@@ -2,10 +2,12 @@ import java.util.*;
 class Solution {
     public long solution(int n, int[] times){
         Arrays.sort(times);
+        
         int timeLength=times.length;
         long left = 1;
         long right = (long)times[timeLength-1]*n;
         long answer=right;
+        
         while(left<=right){
             long mid =(left+right)/2;
             long count=0;
