@@ -10,6 +10,7 @@
 * [K번째수](https://github.com/SGTYang/programmers/tree/main/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
 * [내적](https://github.com/SGTYang/programmers/tree/main/Level1/%EB%82%B4%EC%A0%81)
 * [완주하지 못한 선수](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
+* [폰켓몬](https://github.com/SGTYang/programmers/tree/main/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 ### [LEVEL2]()
 
 ### [LEVEL3]()
