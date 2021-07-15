@@ -13,6 +13,6 @@
 * [폰켓몬](https://github.com/SGTYang/programmers/tree/main/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 * [체육복](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 ### [LEVEL2](https://github.com/SGTYang/programmers/tree/main/Level2)
-* [오픈채팅방]()
+* [오픈채팅방](https://github.com/SGTYang/programmers/tree/main/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
 
 ### [LEVEL3]()
