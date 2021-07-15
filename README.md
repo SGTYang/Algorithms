@@ -12,6 +12,7 @@
 * [완주하지 못한 선수](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
 * [폰켓몬](https://github.com/SGTYang/programmers/tree/main/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 * [체육복](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
-### [LEVEL2]()
+### [LEVEL2](https://github.com/SGTYang/programmers/tree/main/Level2)
+* [오픈채팅방]()
 
 ### [LEVEL3]()
