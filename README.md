@@ -14,5 +14,6 @@
 * [체육복](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 ### [LEVEL2](https://github.com/SGTYang/programmers/tree/main/Level2)
 * [오픈채팅방](https://github.com/SGTYang/programmers/tree/main/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
+* [타겟 넘버](https://github.com/SGTYang/programmers/tree/main/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)
 
 ### [LEVEL3]()
