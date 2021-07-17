@@ -14,6 +14,7 @@
 * [체육복](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 * [음양 더하기](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
 * [키패드 누르기](https://github.com/SGTYang/programmers/blob/main/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/README.md)
+* [소수 만들기](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 ### [LEVEL2](https://github.com/SGTYang/programmers/tree/main/Level2)
 * [오픈채팅방](https://github.com/SGTYang/programmers/tree/main/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
 * [타겟 넘버](https://github.com/SGTYang/programmers/tree/main/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)
