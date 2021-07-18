@@ -13,7 +13,7 @@
 * [폰켓몬](https://github.com/SGTYang/programmers/tree/main/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 * [체육복](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 * [음양 더하기](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
-* [키패드 누르기](https://github.com/SGTYang/programmers/blob/main/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/README.md)
+* [키패드 누르기](https://github.com/SGTYang/programmers/tree/main/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)(java)
 * [소수 만들기](https://github.com/SGTYang/programmers/tree/main/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [로또의 최고 순위와 최저 순위](https://github.com/SGTYang/programmers/tree/main/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)
 * 
