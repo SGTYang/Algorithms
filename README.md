@@ -4,3 +4,8 @@
 프로그래머스 문제 풀이입니다. 여러 풀이 방법과 언어를 사용하여 풀었습니다.
 
 ### [Programmers](https://github.com/SGTYang/Algorithms/tree/main/Programmers)
+
+![LeetCode_Sharing](https://user-images.githubusercontent.com/42399580/126060095-9777400d-ebc7-4d38-a660-331b3d1a4d6f.png)
+
+# LEETCODE()
+릿코드 문제 풀이입니다.
