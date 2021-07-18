@@ -9,4 +9,5 @@
 # LEETCODE
 ![LeetCode-Logo-scaled](https://user-images.githubusercontent.com/42399580/126060158-f1d11a43-9de6-486b-b7b5-c2dac7578f7f.jpeg)
 
+### [LeetCode](https://github.com/SGTYang/Algorithms/tree/main/LeetCode)
 릿코드 문제 풀이입니다.
