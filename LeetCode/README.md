@@ -7,4 +7,5 @@
 * [Reverse Integer](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reverse%20Integer)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
+* [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
 * 
