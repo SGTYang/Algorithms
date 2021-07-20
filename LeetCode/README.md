@@ -9,4 +9,5 @@
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
 * [Longest Palindromic Substring](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Longest%20Palindromic%20Substring)
-* 
+* [Longest Substring Without Repeating Characters](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
+
