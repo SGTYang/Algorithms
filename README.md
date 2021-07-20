@@ -9,7 +9,8 @@
 
 
 # [LEETCODE](https://github.com/SGTYang/Algorithms/tree/main/LeetCode)
-![LeetCode-Logo-scaled](https://user-images.githubusercontent.com/42399580/126060158-f1d11a43-9de6-486b-b7b5-c2dac7578f7f.jpeg)
+<img width="1151" alt="leetcode" src="https://user-images.githubusercontent.com/42399580/126304421-73356ed3-c618-49c5-be01-892015d0ed04.png">
+
 
 릿코드 문제 풀이입니다. 
 난이도 별로(EASY, MEDIUM, HARD) 진행했습니다.
