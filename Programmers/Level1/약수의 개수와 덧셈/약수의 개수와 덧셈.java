@@ -4,7 +4,7 @@ class Solution {
         for(int i=left; i<=right; i++){
             int cnt = 0;
             int tmp = 0;
-            System.out.println(i);
+            
             for(int j=1; j<=i/2; j++){
                 if(i%j == 0){
                     cnt++;
