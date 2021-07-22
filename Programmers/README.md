@@ -18,6 +18,7 @@
 * [로또의 최고 순위와 최저 순위](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)(python)
 * [모의고사](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 * [약수의 개수와 덧셈](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
+* [예산](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%98%88%EC%82%B0)
 ### [LEVEL2](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2)
 
 * [오픈채팅방](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
