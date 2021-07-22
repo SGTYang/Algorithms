@@ -22,6 +22,7 @@
 * [3진법 뒤집기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 * [두 개 뽑아서 더하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0)
 * [2016년](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/2016%EB%85%84)
+* [가운데 글자 가져오기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
 ### [LEVEL2](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2)
 
