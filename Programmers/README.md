@@ -20,6 +20,8 @@
 * [약수의 개수와 덧셈](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
 * [예산](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%98%88%EC%82%B0)
 * [3진법 뒤집기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+* [두 개 뽑아서 더하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 ### [LEVEL2](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2)
 
 * [오픈채팅방](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
