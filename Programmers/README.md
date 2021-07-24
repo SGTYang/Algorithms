@@ -34,6 +34,7 @@
 * [서울에서 김서방 찾기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 * [소수 찾기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 * [수박수박수박수박수박수?](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F)
+* [문자열을 정수로 바꾸기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 
 
