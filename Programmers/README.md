@@ -36,6 +36,7 @@
 * [수박수박수박수박수박수?](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F)
 * [문자열을 정수로 바꾸기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 * [시저 암호](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
+* [약수의 합](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
 
 
 
