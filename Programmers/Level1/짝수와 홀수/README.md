@@ -1,0 +1,5 @@
+# 자바 풀이 결과
+<img width="263" alt="스크린샷 2021-07-25 오후 4 36 00" src="https://user-images.githubusercontent.com/42399580/126891495-ccd19df6-4801-44c1-bd55-cfe022665b0d.png">
+
+# 파이썬 풀이 결과
+<img width="265" alt="스크린샷 2021-07-25 오후 4 35 43" src="https://user-images.githubusercontent.com/42399580/126891500-4fd8a31b-c160-4573-8ce8-d1ba8a90acb7.png">
