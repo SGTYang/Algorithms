@@ -44,8 +44,8 @@
 * [정수 제곱근 판별](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%A0%95%EC%88%98%20%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
 * [제일 작은 수 제거하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [짝수와 홀수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
-* [최대공약수와 최소공배수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
-* 
+* [최대공약수와 최소공배수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)(python)
+* [콜라츠 추측](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)(python)
 
 
 
