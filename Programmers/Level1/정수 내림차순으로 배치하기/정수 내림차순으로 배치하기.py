@@ -1,9 +1,7 @@
 def solution(n):
     answer = 0
-    n = list(str(n))
-    n.reverse()
-    n.sort()
     
-    for i in range(len(n)):
-        answer += int(n[i])*10**i
-    return answer
+    n = list(str(n))
+    n = sorted(n, reverse=True)
+    
+    return int("".join(n))
