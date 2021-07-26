@@ -57,6 +57,8 @@
 
 * [오픈채팅방](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
 * [타겟 넘버](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)
+* [짝지어 제거하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+* 
 
 
 
