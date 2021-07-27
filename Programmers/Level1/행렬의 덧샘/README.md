@@ -5,5 +5,6 @@
 제한 조건
 행렬 arr1, arr2의 행과 열의 길이는 500을 넘지 않습니다.
 
-# 파이썬 풀이 결과<img width="288" alt="스크린샷 2021-07-27 오전 9 59 39" src="https://user-images.githubusercontent.com/42399580/127078362-874c4e9f-347a-4a58-89e7-48d02cfd2eeb.png">
+# 파이썬 풀이 결과
+<img width="288" alt="스크린샷 2021-07-27 오전 9 59 39" src="https://user-images.githubusercontent.com/42399580/127078362-874c4e9f-347a-4a58-89e7-48d02cfd2eeb.png">
 
