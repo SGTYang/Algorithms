@@ -60,6 +60,7 @@
 * [타겟 넘버](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)
 * [짝지어 제거하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [멀쩡한 사각형](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
+* [더 맵게](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
 
 
 
