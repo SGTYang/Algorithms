@@ -67,3 +67,12 @@ record는 다음과 같은 문자열이 담긴 배열이며, 길이는 1 이상 
 유저 아이디와 닉네임의 길이는 1 이상 10 이하이다.
 
 채팅방에서 나간 유저가 닉네임을 변경하는 등 잘못 된 입력은 주어지지 않는다.
+
+# 자바 풀이 결과
+<img width="224" alt="스크린샷 2021-07-28 오전 10 32 48" src="https://user-images.githubusercontent.com/42399580/127254338-58aa523a-d845-40ad-9b42-f78fdf998035.png">
+
+
+# 파이썬 풀이 결과
+<img width="244" alt="스크린샷 2021-07-28 오전 11 31 39" src="https://user-images.githubusercontent.com/42399580/127254355-f2ddef42-8dd6-40eb-8070-bd38349e29ce.png">
+
+파이썬 딕셔너리를 사용하여 유저아이디를 key값으로 닉네임을 value로 설정하고 enter와 chage일가 발생할 때마다 value값을 갱신하는 방법을  풀었습니다
