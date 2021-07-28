@@ -10,3 +10,10 @@ scoville의 길이는 2 이상 1,000,000 이하입니다.
 K는 0 이상 1,000,000,000 이하입니다.
 scoville의 원소는 각각 0 이상 1,000,000 이하입니다.
 모든 음식의 스코빌 지수를 K 이상으로 만들 수 없는 경우에는 -1을 return 합니다.
+
+# 자바 풀이 결과
+<img width="288" alt="스크린샷 2021-07-28 오전 9 37 50" src="https://user-images.githubusercontent.com/42399580/127245071-b01d91f6-c33b-4cdf-a5a1-536d2159669d.png">
+priority queue를 사용하여 풀었습니다
+# 파이썬 풀이 결과
+<img width="311" alt="스크린샷 2021-07-28 오전 9 37 30" src="https://user-images.githubusercontent.com/42399580/127245088-c9385155-d3f6-4286-8211-5483c9883cf2.png">
+heap을 사용하여 풀었습니다
