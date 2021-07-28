@@ -13,7 +13,7 @@ scoville의 원소는 각각 0 이상 1,000,000 이하입니다.
 
 # 자바 풀이 결과
 <img width="288" alt="스크린샷 2021-07-28 오전 9 37 50" src="https://user-images.githubusercontent.com/42399580/127245071-b01d91f6-c33b-4cdf-a5a1-536d2159669d.png">
-priority queue를 사용하여 풀었습니다
+priority queue를 사용하여 풀었습니다<br/>
 # 파이썬 풀이 결과
 <img width="311" alt="스크린샷 2021-07-28 오전 9 37 30" src="https://user-images.githubusercontent.com/42399580/127245088-c9385155-d3f6-4286-8211-5483c9883cf2.png">
 heap을 사용하여 풀었습니다
