@@ -12,7 +12,9 @@
 배포는 하루에 한 번만 할 수 있으며, 하루의 끝에 이루어진다고 가정합니다. 예를 들어 진도율이 95%인 작업의 개발 속도가 하루에 4%라면 배포는 2일 뒤에 이루어집니다.<br/>
 
 # 자바 풀이 결과
+<img width="267" alt="스크린샷 2021-07-31 오후 5 33 07" src="https://user-images.githubusercontent.com/42399580/127734094-a2cd7ba4-c1d4-4277-bf2e-c5bd04c65c59.png">
 
 
 # 파이썬 풀이 결과
+<img width="255" alt="스크린샷 2021-07-31 오후 5 32 53" src="https://user-images.githubusercontent.com/42399580/127734104-d6a16014-d3f2-40a5-86e7-053500f988de.png">
 
