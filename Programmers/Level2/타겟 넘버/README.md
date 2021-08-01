@@ -16,5 +16,10 @@ n개의 음이 아닌 정수가 있습니다. 이 수를 적절히 더하거나 
 타겟 넘버는 1 이상 1000 이하인 자연수입니다.
 
 # 자바 풀이 결과
+<img width="254" alt="스크린샷 2021-08-01 오후 7 13 06" src="https://user-images.githubusercontent.com/42399580/127767250-ac5409d6-4599-48ec-b41a-15abb2355f18.png">
 
-# 파이썬 풀이 결과
+# 파이썬 DFS 풀이 결과
+<img width="268" alt="스크린샷 2021-08-01 오후 7 06 35" src="https://user-images.githubusercontent.com/42399580/127767092-34b97781-60e0-43fe-8296-36e96c0ea084.png">
+
+# 파이썬 BFS 풀이 결과
+<img width="268" alt="스크린샷 2021-08-01 오후 7 14 21" src="https://user-images.githubusercontent.com/42399580/127767286-e683e827-5174-42f1-b498-2978bf8f5eb1.png">
