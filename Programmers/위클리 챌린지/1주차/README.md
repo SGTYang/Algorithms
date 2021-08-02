@@ -11,4 +11,4 @@
 # 파이썬 풀이 결과
 <img width="265" alt="스크린샷 2021-08-02 오후 12 16 47" src="https://user-images.githubusercontent.com/42399580/127799904-cef1825c-e9dd-4c73-8a1b-3168671fd22a.png">
 등차수열의 합 공식을 사용하여 풀었습니다
-
+<img width="363" alt="스크린샷 2021-08-02 오후 12 17 46" src="https://user-images.githubusercontent.com/42399580/127799999-69513d9c-53f3-4465-9885-28a4be8e25b8.png">
