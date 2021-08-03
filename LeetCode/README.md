@@ -5,6 +5,7 @@
 ## [Easy](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy)
 * [Two Sum](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum)
 * [Reverse Integer](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reverse%20Integer)
+* [Palindrome Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Palindrome%20Number)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
