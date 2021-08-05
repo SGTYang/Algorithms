@@ -11,6 +11,9 @@
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
 * [Longest Palindromic Substring](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Longest%20Palindromic%20Substring)
 * [Longest Substring Without Repeating Characters](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
+* [ZigZag Conversion](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/ZigZag%20Conversion)
+* [String to Integer (atoi)](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/String%20to%20Integer%20(atoi))
+* 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
