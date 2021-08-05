@@ -1,28 +1,41 @@
 class Solution:
-    def myAtoi(self, s: str) -> int:
-        tmp = ''
-        negative = False
-        check = False
-        b = False
-        # 48 ~ 57
-        for i in range(len(s)):
-            if s[i] = ' ':
-                continue
-            elif s[i] == '-':
-                negative = True
-                check = True
-            elif s[i] == '+':
-                check = True
-            elif ord(s[i]) >= 47 and ord(s[i]) <= 57:
-                tmp += s[i]
-            else:
-                break
-        
-        if len(tmp) == 0:
+    def myAtoi(self, str: str) -> int:
+        value, state, pos, sign = 0, 0, 0, 1
+
+        if len(str) == 0:
             return 0
-        if negative:
-            return min(int(tmp), 2**31)*-1
-        
-        return min(int(tmp), 2**31)
-            
-        
+
+        while pos < len(str):
+            current_char = str[pos]
+            if state == 0:
+                if current_char == " ":
+                    state = 0
+                elif current_char == "+" or current_char == "-":
+                    state = 1
+                    sign = 1 if current_char == "+" else -1
+                elif current_char.isdigit():
+                    state = 2
+                    value = value * 10 + int(current_char)
+                else:
+                    return 0
+            elif state == 1:
+                if current_char.isdigit():
+                    state = 2
+                    value = value * 10 + int(current_char)
+                else:
+                    return 0
+            elif state == 2:
+                if current_char.isdigit():
+                    state = 2
+                    value = value * 10 + int(current_char)
+                else:
+                    break
+            else:
+                return 0
+            pos += 1
+
+        value = sign * value
+        value = min(value, 2 ** 31 - 1)
+        value = max(-(2 ** 31), value)
+
+        return value
