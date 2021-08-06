@@ -17,4 +17,5 @@
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
+* [Regular Expression Matching](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Regular%20Expression%20Matching)
 
