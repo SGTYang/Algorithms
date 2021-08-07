@@ -1,7 +1,6 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        memo = {}
-        
+        memo = {} #전엳변수로
         def dp(i, j):
             if (i, j) not in memo:
                 if j == len(p):
