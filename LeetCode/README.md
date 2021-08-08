@@ -7,6 +7,7 @@
 * [Reverse Integer](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reverse%20Integer)
 * [Palindrome Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Palindrome%20Number)
 * [Roman to Integer](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Roman%20to%20Integer)
+* [Longest Common Prefix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Longest%20Common%20Prefix)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
