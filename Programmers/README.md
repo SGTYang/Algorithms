@@ -81,3 +81,4 @@
 ### [위클리 챌린지](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)
 
 * [1주차](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/1%EC%A3%BC%EC%B0%A8)
+* [2주차](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/2%EC%A3%BC%EC%B0%A8)
