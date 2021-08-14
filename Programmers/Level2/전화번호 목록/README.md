@@ -12,5 +12,9 @@ phone_book의 길이는 1 이상 1,000,000 이하입니다.</br>
 각 전화번호의 길이는 1 이상 20 이하입니다.</br>
 같은 전화번호가 중복해서 들어있지 않습니다.
 
+# 자바 풀이 결과
+<img width="239" alt="스크린샷 2021-08-15 오전 12 22 49" src="https://user-images.githubusercontent.com/42399580/129451129-dafa547f-5596-4cf8-bc02-155200a6a4d3.png">
+
+
 # 파이썬 풀이 결과
 <img width="261" alt="스크린샷 2021-08-15 오전 12 19 51" src="https://user-images.githubusercontent.com/42399580/129451051-159592ff-7fc6-4182-b7e6-82aa9c49b27b.png">
