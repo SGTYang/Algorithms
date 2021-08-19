@@ -69,6 +69,7 @@
 * [문자열 압축](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)(python)
 * [전화번호 목록](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)
 * [가장 큰 수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
+* [프린터](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
 
 
 
