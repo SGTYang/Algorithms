@@ -1,14 +1,12 @@
 from collections import deque
 def solution(priorities, location):
     answer = 0
-    deq = deque([(value,index) for index,value in enumerate(priorities)])
-
-    while len(deq):
-        point = deq.popleft()
-        if deq and max(deq)[0] > point[0]:
-            deq.append(point)
+    deq = deque([[value,index] for index,value in enumerate(priorities)])
+    while deq:
+        tmp = deq.popleft()
+        if deq and max(deq)[0] > tmp[0]:
+            deq.append(tmp)
         else:
             answer += 1
-            if point[1] == location:
-                break
-    return answer
+            if location == tmp[1]:
+                return answer
