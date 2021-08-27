@@ -4,7 +4,7 @@ def solution(numbers):
     answer = 0
     permu = []
     for i in range(1,len(numbers)+1):
-        tmp = list((permutations(numbers, i)))
+        tmp = list(permutations(numbers, i))
         [permu.append(int(k)) for k in ["".join(j) for j in tmp]]
     permu = set(permu)
     for i in permu:
