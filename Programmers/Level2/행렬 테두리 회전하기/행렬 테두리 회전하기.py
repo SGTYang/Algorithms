@@ -1,38 +1,32 @@
 def solution(rows, columns, queries):
-
     answer = []
-    array = [[0 for col in range(columns)] for row in range(rows)]
+    
+    arry = [[0 for i in range(columns)] for j in range(rows)]
     t = 1
-    for row in range(rows):
-        for col in range(columns):
-            array[row][col] = t
+    
+    for i in range(len(arry)):
+        for j in range(len(arry[i])):
+            arry[i][j] = t
             t += 1
-
+    
     for x1,y1,x2,y2 in queries:
-        tmp = array[x1-1][y1-1]
-        mini = tmp
-
-        for k in range(x1-1,x2-1):
-            test = array[k+1][y1-1]
-            array[k][y1-1] = test
-            mini = min(mini, test)
-
-        for k in range(y1-1,y2-1):
-            test = array[x2-1][k+1]
-            array[x2-1][k] = test
-            mini = min(mini, test)
-
-        for k in range(x2-1,x1-1,-1):
-            test = array[k-1][y2-1]
-            array[k][y2-1] = test
-            mini = min(mini, test)
-
-        for k in range(y2-1,y1-1,-1):
-            test = array[x1-1][k-1]
-            array[x1-1][k] = test
-            mini = min(mini, test)
-
-        array[x1-1][y1] = tmp
-        answer.append(mini)
-
+        tmp = arry[x1-1][y1-1]
+        min_value = tmp
+        for i in range(x1-1,x2-1):
+            arry[i][y1-1] = arry[i+1][y1-1]
+            min_value = min(arry[i][y1-1],min_value)
+            
+        for i in range(y1-1,y2-1):
+            arry[x2-1][i] = arry[x2-1][i+1]
+            min_value = min(arry[x2-1][i],min_value)
+        for i in range(x2-1,x1-1,-1):
+            arry[i][y2-1] = arry[i-1][y2-1]
+            min_value = min(arry[i][y2-1],min_value)
+        for i in range(y2-1,y1-1,-1):
+            arry[x1-1][i] = arry[x1-1][i-1]
+            min_value = min(arry[x1-1][i],min_value)
+        arry[x1-1][y1] = tmp
+        
+        answer.append(min_value)       
+            
     return answer
