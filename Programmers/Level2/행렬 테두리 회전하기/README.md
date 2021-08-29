@@ -3,4 +3,5 @@ rows x columns 크기인 행렬이 있습니다. 행렬에는 1부터 rows x col
 
 x1 행 y1 열부터 x2 행 y2 열까지의 영역에 해당하는 직사각형에서 테두리에 있는 숫자들을 한 칸씩 시계방향으로 회전합니다.
 
-# 다른 사람의 코드를 참고 하였습니다
+# 파이썬 풀이 결과
+<img width="292" alt="스크린샷 2021-08-29 오후 9 38 18" src="https://user-images.githubusercontent.com/42399580/131250605-5bd3f8d4-564e-49e2-b755-41cbde4ac891.png">
