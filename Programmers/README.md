@@ -76,7 +76,7 @@
 * [행렬 테두리 회전하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)(python)
 * [메뉴 리뉴얼](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)(python)
 * [뉴스 클러스터링](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)(python)
-* 
+* [튜플](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%8A%9C%ED%94%8C)(python)
 
 ### [LEVEL3](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3)
 
