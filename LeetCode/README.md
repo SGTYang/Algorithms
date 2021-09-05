@@ -28,6 +28,6 @@
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
 * [Regular Expression Matching](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Regular%20Expression%20Matching)
 
-##[Shell]
+## [Shell](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Shell/Valid%20Phone%20Numbers)
 * [Valid Phone Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Shell/Valid%20Phone%20Numbers)
 
