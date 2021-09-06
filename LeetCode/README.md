@@ -11,7 +11,7 @@
 * [Valid Parentheses](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Valid%20Parentheses)
 * [Remove Duplicates](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Remove%20Duplicates)
 * [Remove Element](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Remove%20Element)
-* 
+* [Check If N and Its Double Exist](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Check%20If%20N%20and%20Its%20Double%20Exist)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
