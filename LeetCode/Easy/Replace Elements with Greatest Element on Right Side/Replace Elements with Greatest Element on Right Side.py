@@ -1,7 +1,7 @@
 class Solution:
     def replaceElements(self, arr: List[int]) -> List[int]:
-        if len(arr) ==0:
-            return null
+        if arr==null or len(arr) ==0:
+            return arr
         
         for i in range(len(arr)-1):
             arr[i] = max(arr[i+1:])
