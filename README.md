@@ -2,7 +2,7 @@
 ### 프로그래머스 문제 풀이 LEVEL1, LEVEL2, LEVEL3, 위클리 챌린지
 
 # [LEETCODE](https://github.com/SGTYang/Algorithms/tree/main/LeetCode)
-### 릿코드 문제 풀이 난이도 별로(EASY, MEDIUM, HARD) 진행
+### 릿코드 문제 풀이 (EASY, MEDIUM, HARD, SHELL)
 
 # [Linked List](https://github.com/SGTYang/Algorithms/tree/main/Linked%20List)
 ### 링크드 리스트를 파이썬으로 간단히 구현 
