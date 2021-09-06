@@ -10,6 +10,7 @@
 * [Longest Common Prefix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Longest%20Common%20Prefix)
 * [Valid Parentheses](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Valid%20Parentheses)
 * [Remove Duplicates](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Remove%20Duplicates)
+* [Remove Element](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Remove%20Element)
 * 
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
