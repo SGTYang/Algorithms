@@ -16,6 +16,7 @@
 * [Replace Elements with Greatest Element on Right Side](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
 * [Moves Zeroes](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Move%20Zeroes)
 * [Sort Array By Parity](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Sort%20Array%20By%20Parity)
+* [Height Checker](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Height%20Checker)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
