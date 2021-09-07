@@ -17,6 +17,8 @@
 * [Moves Zeroes](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Move%20Zeroes)
 * [Sort Array By Parity](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Sort%20Array%20By%20Parity)
 * [Height Checker](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Height%20Checker)
+* [Thrid Maximum Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Third%20Maximum%20Number)
+* 
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
