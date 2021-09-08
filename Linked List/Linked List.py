@@ -1,9 +1,3 @@
-# 노드 구현
-class Node:
-    def __init__(self, data):
-        self.data = data
-        self.next = None
-
 #노드 구현
 class Node:
     def __init__(self, data):
