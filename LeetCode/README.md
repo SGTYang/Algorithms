@@ -21,6 +21,8 @@
 * [Find All Numbers Disappeared in an Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 * [Squares of a Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Squares%20of%20a%20Sorted%20Array)
 * [Contains Duplicate](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Contains%20Duplicate)
+* [Intersection of Two Arrays II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II)
+* 
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
