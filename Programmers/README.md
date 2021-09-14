@@ -85,8 +85,6 @@
 * [네트워크](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 * [입국심사](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
 * [N으로 표현](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)
-* 
-
 
 
 ### [위클리 챌린지](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)
