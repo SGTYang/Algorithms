@@ -40,6 +40,7 @@
 * [3Sum Closest](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/3Sum%20Closest)
 * [Letter Combinations of a Phone Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number)
 * [Remove Nth Node](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List)
+* [Permutation in String](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Permutation%20in%20String)
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
