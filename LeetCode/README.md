@@ -29,6 +29,7 @@
 * [Best Time to Buy and Sell Stock](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 * [Reshape the Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reshape%20the%20Matrix)
 * [Flood Fill](https://github.com/SGTYang/Algorithms/blob/main/LeetCode/Easy/Flood%20Fill)
+* [Pascal's Triangle](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Pascal's%20Triangle)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
