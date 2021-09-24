@@ -5,4 +5,4 @@ You are also given three integers sr, sc, and newColor. You should perform a flo
 
 To perform a flood fill, consider the starting pixel, plus any pixels connected 4-directionally to the starting pixel of the same color as the starting pixel, plus any pixels connected 4-directionally to those pixels (also with the same color), and so on. Replace the color of all of the aforementioned pixels with newColor.
 
-Return the modified image after performing the flood fill.ㅌ
+Return the modified image after performing the flood fill.
