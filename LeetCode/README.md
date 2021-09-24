@@ -27,6 +27,7 @@
 * [Reverse Words in a String III](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III)
 * [Middle of the Linked List](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Middle%20of%20the%20Linked%20List)
 * [Best Time to Buy and Sell Stock](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+* [Reshape the Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reshape%20the%20Matrix)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
