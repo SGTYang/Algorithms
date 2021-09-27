@@ -11,4 +11,4 @@
 ### 설명과 파이썬으로 구현
 
 # [HackerRank](https://github.com/SGTYang/Algorithms/tree/main/HackerRank)
-### 헤커랭크 문제 풀이
+### 헤커랭크 문제 풀이 (Algorithm)
