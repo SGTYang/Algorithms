@@ -45,6 +45,7 @@
 * [Remove Nth Node](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List)
 * [Permutation in String](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Permutation%20in%20String)
 * [Max Area of Island](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Max%20Area%20of%20Island)
+* [Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Matrix)
 * [Rotting Oranges](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Rotting%20Oranges)
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
