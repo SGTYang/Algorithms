@@ -47,6 +47,7 @@
 * [Max Area of Island](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Max%20Area%20of%20Island)
 * [Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Matrix)
 * [Rotting Oranges](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Rotting%20Oranges)
+* [Combinations](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Combinations)
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
