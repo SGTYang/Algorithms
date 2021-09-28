@@ -30,6 +30,7 @@
 * [Reshape the Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reshape%20the%20Matrix)
 * [Flood Fill](https://github.com/SGTYang/Algorithms/blob/main/LeetCode/Easy/Flood%20Fill)
 * [Pascal's Triangle](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Pascal's%20Triangle)
+* [Merge Two Sorted Lists](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Merge%20Two%20Sorted%20Lists)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
