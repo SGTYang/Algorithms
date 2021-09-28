@@ -10,8 +10,9 @@ You may return the answer in any order.
                         if find_solution(candidate):
                         output(candidate)
                         return
+                        
                         for next_candiate in list_of_candidates:
-                        if is_valid(next_candidate):
-                        place(next_candiate)
-                        backtrack(next_candiate)
-                        remove(next_candiate)
+                                    if is_valid(next_candidate):
+                                    place(next_candiate)
+                                    backtrack(next_candiate)
+                                    remove(next_candiate)
