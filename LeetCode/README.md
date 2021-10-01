@@ -50,6 +50,7 @@
 * [Rotting Oranges](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Rotting%20Oranges)
 * [Combinations](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Combinations)
 * [Permutations](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Permutations)
+* [Surrounded Regions](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Surrounded%20Regions)
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
