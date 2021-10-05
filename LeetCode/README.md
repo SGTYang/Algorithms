@@ -33,6 +33,7 @@
 * [Merge Two Sorted Lists](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Merge%20Two%20Sorted%20Lists)
 * [Fibonacci Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Fibonacci%20Number)
 * [N-th Tribonacci Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/N-th%20Tribonacci%20Number)
+* [Min Cost Climbing Stairs](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Min%20Cost%20Climbing%20Stairs)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
