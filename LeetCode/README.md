@@ -57,6 +57,7 @@
 * [Number of Islands](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Number%20of%20Island)
 * [House Robber](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/House%20Robber)
 * [House Robber II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/House%20Robber%20II)
+* [Delete and Earn](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Delete%20and%20Earn)
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
