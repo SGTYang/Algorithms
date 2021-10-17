@@ -3,6 +3,7 @@ class Solution {
         String[] day ={"SUN","MON","TUE","WED","THU","FRI","SAT"};
         String answer = "";
 
+        
         switch(a){
         case 1:
             answer=day[(b%7+4)%7];
