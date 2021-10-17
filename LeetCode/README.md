@@ -2,6 +2,7 @@
 
 릿코드
 
+
 ## [Easy](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy)
 * [Two Sum](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum)
 * [Reverse Integer](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Reverse%20Integer)
