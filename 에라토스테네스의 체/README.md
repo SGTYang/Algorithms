@@ -1,5 +1,6 @@
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/42399580/126752126-5ac76519-c852-450b-94d7-7776f09dc131.gif)
 
+
 1. 2부터 소수를 구하고자 하는 구간의 모든 수를 나열
 2. 2는 소수이므로 오른쪽에 2를 쓴다. (빨간색)
 3. 자기 자신을 제외한 2의 배수를 모두 지운다.
