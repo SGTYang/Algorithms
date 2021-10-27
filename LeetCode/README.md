@@ -35,6 +35,7 @@
 * [N-th Tribonacci Number](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/N-th%20Tribonacci%20Number)
 * [Min Cost Climbing Stairs](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Min%20Cost%20Climbing%20Stairs)
 * [Two Sum II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum%20II)
+* [Shuffle String](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Shuffle%20String)
 
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
