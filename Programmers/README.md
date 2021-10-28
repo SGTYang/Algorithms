@@ -78,6 +78,7 @@
 * [튜플](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%8A%9C%ED%94%8C)(python)
 * [수식 최대화]()(python)
 * [게임 맵 최단거리](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)(python)
+* [N개의 최소공배수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 
 
