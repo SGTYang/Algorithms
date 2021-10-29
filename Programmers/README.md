@@ -82,6 +82,7 @@
 * [JadenCase 문자열 만들기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [피보나치 수](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
 * [행렬의 곱셈](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
+* [최솟값 만들기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 
 
