@@ -86,6 +86,7 @@
 * [숫자의 표현](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
 * [땅따먹기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)
 * [다음 큰 숫자](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
+* [n진수 게임](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84)
 
 
 
