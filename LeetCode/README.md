@@ -36,6 +36,7 @@
 * [Two Sum II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum%20II)
 * [Shuffle String](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Shuffle%20String)
 
+
 ## [Medium](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium)
 * [Add Two Numbers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Add%20Two%20Numbers)
 * [Longest Palindromic Substring](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Longest%20Palindromic%20Substring)
