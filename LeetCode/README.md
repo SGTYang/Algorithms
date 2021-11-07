@@ -65,6 +65,7 @@
 * [Triangle](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Triangle)
 * [Find First and Last Position of Element in Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 * [Roate Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Rotate%20Array)
+* [Generte Parentheses](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Generate%20Parentheses)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
