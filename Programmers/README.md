@@ -90,6 +90,7 @@
 * [올바른 괄호](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 * [파일명 정렬](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%20%EC%A0%95%EB%A0%AC)
 * [압축](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%95%95%EC%B6%95)
+* [가장 큰 정사각형 찾기](https://github.com/SGTYang/Algorithms/blob/main/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0/README.md)
 
 
 
