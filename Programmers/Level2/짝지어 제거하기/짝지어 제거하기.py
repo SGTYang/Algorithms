@@ -1,7 +1,5 @@
 def solution(s): 
-    
-    arry = []
-    
+    arry = []    
     for i in s:
         
         if len(arry) == 0: 
