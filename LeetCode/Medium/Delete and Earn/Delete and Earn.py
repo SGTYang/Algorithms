@@ -4,17 +4,16 @@ class Solution:
         if not nums:
             return 0
         
-        container = [0]*(max(nums)+1)
+        box = [0]*(max(nums)+1)
         
         for i in nums:
-            container[i] = container[i]+i
-        print(container)
+            box[i] = box[i]+i
         
-        dp = [0]*len(container)
-        dp[1] = container[1]
+        dp = [0]*len(box)
+        dp[1] = box[1]
         
-        for i in range(2,len(container)):
-            dp[i] = max(container[i]+dp[i-2],dp[i-1])
+        for i in range(2,len(box)):
+            dp[i] = max(box[i]+dp[i-2],dp[i-1])
             
         print(dp)
         return dp[-1]
