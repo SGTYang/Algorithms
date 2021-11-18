@@ -1,19 +1,16 @@
 from itertools import permutations
 def solution(expression):
-    operators = ["*", "+", "-"]
-    answer = []
-    
-    for oper in permutations(operators, 3):
+    oper = ['+','-','*']
+    stack = []
+    for i in permutations(oper):
+        a = i[0]
+        b = i[1]
+        tmp=expression.split(a)
+        for j in range(len(tmp)):
+            tmp[j] = tmp[j].split(b)
+            for k in range(len(tmp[j])):
+                tmp[j][k] = str(eval(tmp[j][k]))
+            tmp[j] = str(eval(b.join(tmp[j])))
+        stack.append(abs(eval(a.join(tmp))))
 
-        a = oper[0]
-        b = oper[1]
-        tmp_list = []
-        print(oper)
-        for i in expression.split(a):
-            print(i)
-            print(i.split(b))
-            tmp = [f"({j})" for j in i.split(b)]
-            print(tmp)
-            tmp_list.append(f"({b.join(tmp)})")
-        answer.append(abs(eval(a.join(tmp_list))))
-    return max(answer)
+    return max(stack)
