@@ -53,7 +53,7 @@
 * [숫자 문자열과 영단어](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)(python)
 * [실패율](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)(python)
 * [없는 숫자 더하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
-* 
+* [나머지가 1이 되는 수 찾기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 
 
 ### [LEVEL2](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2)
