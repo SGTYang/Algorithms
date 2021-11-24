@@ -69,6 +69,7 @@
 * [Generte Parentheses](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Generate%20Parentheses)
 * [Divide Two Integers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Divide%20Two%20Integers)
 * [Maximum Product Subarray](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Maximum%20Product%20Subarray)
+* [Best Sigtseeing Pair](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Best%20Sightseeing%20Pair)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
