@@ -36,6 +36,7 @@
 * [Two Sum II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum%20II)
 * [Shuffle String](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Shuffle%20String)
 * [Implement strStr()](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Implement%20strStr())
+* [Parscal's Triangle II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Pascal's%20Triangle%20II)
 
 
 
