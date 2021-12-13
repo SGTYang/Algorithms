@@ -1,7 +1,5 @@
 <img width="1151" alt="leetcode" src="https://user-images.githubusercontent.com/42399580/126304233-faece608-54f7-40e6-987a-be59efe9e7c6.png">
 
-
-
 릿코드
 ## [Easy](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy)
 * [Two Sum](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Two%20Sum)
@@ -76,7 +74,6 @@
 * [Divide Two Integers](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Divide%20Two%20Integers)
 * [Maximum Product Subarray](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Maximum%20Product%20Subarray)
 * [Best Sigtseeing Pair](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Best%20Sightseeing%20Pair)
-
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
 * [Median of Two Sorted Arrays](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays)
