@@ -41,6 +41,7 @@
 * [Parscal's Triangle II](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Pascal's%20Triangle%20II)
 * [First Bad Version](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/First%20Bad%20%20Version)
 * [Search Insert Position](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Search%20Insert%20Position)
+* [Climbing Stairs](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Easy/Climbing%20Stairs)
 
 
 
