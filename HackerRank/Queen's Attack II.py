@@ -21,8 +21,19 @@ import sys
 def queensAttack(n, k, r_q, c_q, obstacles):
     # Write your code here
     moves = [(1,0),(1,1),(-1,0),(-1,-1),(0,1),(0,-1)]
+    ans = 0
+    print(obstacles)
     
-    for 
+    for y,x in moves:
+        new_c_q, new_r_q = r_q + y, c_q + x
+        print(new_c_q, new_r_q)
+        while new_c_q >=0 and new_r_q >=0 and new_c_q<n and new_r_q<k:
+            if (new_c_q,new_r_q) in obstacles:
+                break
+            ans += 1
+            new_c_q, new_r_q = new_c_q+y, new_r_q+x 
+    
+    return ans 
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
