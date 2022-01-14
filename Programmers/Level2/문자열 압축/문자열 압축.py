@@ -19,8 +19,8 @@ def solution(s):
             else:
                 cnt += 1
             
+                
         if len(s)%i > 0:
             tmp_arry.append(s[-(len(s)%i):])
-        answer = min(answer, len("".join(tmp_arry)))
-                     
+        answer = min(answer, len("".join(tmp_arry)))                  
     return answer
