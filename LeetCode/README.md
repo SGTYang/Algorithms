@@ -80,6 +80,7 @@
 * [Maximum Product Subarray](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Maximum%20Product%20Subarray)
 * [Best Sigtseeing Pair](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Best%20Sightseeing%20Pair)
 * [Search in Rotated Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array)
+* [Search a 2D Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Search%20a%202D%20Matrix)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
