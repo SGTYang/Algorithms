@@ -81,6 +81,7 @@
 * [Best Sigtseeing Pair](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Best%20Sightseeing%20Pair)
 * [Search in Rotated Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array)
 * [Search a 2D Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Search%20a%202D%20Matrix)
+* [Find Minimum in Rotated Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
