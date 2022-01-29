@@ -102,6 +102,7 @@
 * [입국심사](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
 * [N으로 표현](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)
 * [디스크 컨트롤러](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
+* [보석 쇼핑](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91)
 
 
 ### [위클리 챌린지](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)
