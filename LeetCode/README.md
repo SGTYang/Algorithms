@@ -86,6 +86,7 @@
 * [Find Minimum in Rotated Sorted Array](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 * [Find Peak Element](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Find%20Peak%20Element)
 * [Interval List Intersections](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Interval%20List%20Intersections)
+* [Number of Provinces](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Number%20of%20Provinces)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
