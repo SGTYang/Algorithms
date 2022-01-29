@@ -87,6 +87,7 @@
 * [Find Peak Element](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Find%20Peak%20Element)
 * [Interval List Intersections](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Interval%20List%20Intersections)
 * [Number of Provinces](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Number%20of%20Provinces)
+* [Shortest Path in Binary Matrix](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Medium/Shortest%20Path%20in%20Binary%20Matrix)
 
 
 ## [Hard](https://github.com/SGTYang/Algorithms/tree/main/LeetCode/Hard)
