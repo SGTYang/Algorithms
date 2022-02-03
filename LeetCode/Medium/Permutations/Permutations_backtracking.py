@@ -1,17 +1,21 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        visited = set()
-        result = []
-        subset = []
         
-        def backtracking(result, visited, subset, nums):
-            if len(subset) == len(nums):
-                result.append(subset)
+        visited = set()
+        answer = []
+        
+        def backtrack(permu,index,visited):
+            if index ==0:
+                answer.append(permu.copy())
+                return
+            
             for i in range(len(nums)):
                 if i not in visited:
+                    permu.append(nums[i])
                     visited.add(i)
-                    backtracking(result, visited, subset+[nums[i]], nums)
+                    backtrack(permu,index-1,visited)
                     visited.remove(i)
+                    permu.pop()
         
-        backtracking(result, visited, subset, nums)
-        return result
+        backtrack([],len(nums),visited)
+        return answer
