@@ -97,6 +97,7 @@
 * [괄호 회전하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 * [[1차] 프랜즈4블록](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)
 * [[1차] 캐시](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C)
+* [k진수에서 소수 개수 구하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 
 ### [LEVEL3](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3)
