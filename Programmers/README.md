@@ -56,6 +56,7 @@
 * [없는 숫자 더하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
 * [나머지가 1이 되는 수 찾기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 * [신고 결과 받기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0)
+* [[1차] 비밀지도](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 
 
 ### [LEVEL2](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2)
