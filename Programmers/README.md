@@ -99,6 +99,7 @@
 * [[1차] 캐시](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C)
 * [k진수에서 소수 개수 구하기](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 * [주차 요금 계산](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0)
+* [피로도](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84)
 
 
 ### [LEVEL3](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3)
