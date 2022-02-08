@@ -102,6 +102,7 @@
 * [피로도](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84)
 * [삼각 달팽이](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4)
 * [점프와 순간이동](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99)
+* [스킬트리](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)
 
 
 ### [LEVEL3](https://github.com/SGTYang/Algorithms/tree/main/Programmers/Level3)
