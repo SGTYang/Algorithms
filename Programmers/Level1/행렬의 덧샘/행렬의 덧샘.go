@@ -4,7 +4,7 @@ func solution(arr1 [][]int, arr2 [][]int) [][]int {
     col := len(arr1[0])
     ans := make([][]int, row)
     
-    for i := range result {
+    for i := range ans {
         ans[i] = make([]int, col)
     }
     
