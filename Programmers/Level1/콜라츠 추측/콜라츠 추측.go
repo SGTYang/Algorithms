@@ -16,3 +16,4 @@ func solution(num int) int {
     
     return cnt
 }
+
