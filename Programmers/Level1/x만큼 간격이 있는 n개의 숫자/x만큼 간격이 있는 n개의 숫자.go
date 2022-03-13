@@ -1,5 +1,3 @@
-import "fmt"
-
 func solution(x int, n int) []int64 {
     fmt.Println(x)
     var result []int64
