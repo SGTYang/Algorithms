@@ -1,39 +1,37 @@
-import(
-    "strings"
-)
-func solution(id_list []string, report []string, k int) []int {
-    var report_map map[string]string
-    var check_map map[string]int
-    var ans  map[string]int
-    var list []int
-    
-    ans = make(map[string]int)
-    check_map = make(map[string]int)
-    report_map = make(map[string]string)
-    
-    for _,val := range id_list{
-        check_map[val]  = 0
-    }
-    
-    for i:=0; i<len(report); i++{
-        tmp_string:=strings.Split(report[i], " ")
+def solution(id_list, report, k):
+    report = list(set(report))
+    answer = []
+    mail = {}
+    id_dict = {}
+    report_count = {}
+    # 신고 카운트
+    for i in range(len(report)):
+        user_id,  report_id =report[i].split()
+        if report_id not in report_count:
+            report_count[report_id]=1
+        else:
+            report_count[report_id]+=1
 
-        if _, exists:=report_map[report[i]]; !exists{
-            report_map[report[i]] = tmp_string[1]
-            check_map[tmp_string[1]] += 1
-        }
-    }
+    # 누구 신고했는지 저장하기
+    for i in range(len(report)):
+        user_id, report_id = report[i].split()
+        if user_id not in id_dict:
+            id_dict[user_id]=report_id
+        elif id_dict[user_id]:
+            id_dict[user_id]=id_dict[user_id]+' '+report_id
 
-    for i:=0; i<len(report); i++{
-        tmp_string:=strings.Split(report[i], " ")
-        if check_map[tmp_string[1]] >= k{
-            ans[tmp_string[0]] += 1
-        }
-    }
-    
-    for _,val := range id_list{
-        list = append(list, ans[val])
-    }
+    # 메일발송
+    for i in id_dict:
+        count = 0
+        for j in list(id_dict[i].split()):
+            if report_count[j] >= k:
+                count+=1
+        mail[i]=count
 
-    return list
-}
+    # 메일과 아이디 매칭
+    for i in range(len(id_list)):
+        if id_list[i] in mail:
+            answer.append(mail[id_list[i]])
+        else:
+            answer.append(0)
+    return answer
