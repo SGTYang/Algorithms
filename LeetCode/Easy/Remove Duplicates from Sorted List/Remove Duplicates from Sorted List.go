@@ -6,6 +6,9 @@
  * }
  */
 func deleteDuplicates(head *ListNode) *ListNode {
+    if head == nil{
+        return nil
+    }
     
     ans := head
     
