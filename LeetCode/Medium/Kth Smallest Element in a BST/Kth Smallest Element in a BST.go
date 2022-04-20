@@ -6,6 +6,7 @@
  *     Right *TreeNode
  * }
  */
+
 func traverse(node *TreeNode, k *int, res *int) {
     if node == nil {
         return
