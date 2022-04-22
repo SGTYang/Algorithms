@@ -2,6 +2,7 @@ func calPoints(ops []string) int {
     container := make([]int,len(ops))
     var ans int
     
+    
     for _,v := range ops{
         if v == "C"{
             container = container[:len(container)-1]
@@ -14,6 +15,7 @@ func calPoints(ops []string) int {
             container = append(container, num)
         }
     }
+    
     
     for _, v:= range container{
         ans += v
