@@ -32,7 +32,7 @@ func minCostConnectPoints(points [][]int) int {
                 } 
             }
         }
-        // fmt.Println("min", minEdge)
+
         if minEdge != -1 {
             total += minEdge
         }
