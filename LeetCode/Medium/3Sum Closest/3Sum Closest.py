@@ -2,6 +2,7 @@ class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         min_val = nums[0]+nums[1]+nums[2]
         nums.sort()
+
         for i in range(len(nums)-2):
             left, right = i+1, len(nums)-1
             while left<right:
