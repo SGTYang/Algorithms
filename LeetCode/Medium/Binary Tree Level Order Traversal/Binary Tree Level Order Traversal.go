@@ -10,11 +10,9 @@ func levelOrder(root *TreeNode) [][]int {
     if root == nil{
         return nil
     }
-    
     que := make([]*TreeNode, 1)
     level := 0
     var ans [][]int
-    
     que[0] = root
     
     for len(que) > 0{
