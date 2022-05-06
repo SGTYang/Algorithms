@@ -18,7 +18,6 @@ class Solution:
             if l2:
                 number_sum += l2.val
                 l2 = l2.next
-                
             number_sum += carrier
             carrier = number_sum//10
             node = ListNode(number_sum%10)
