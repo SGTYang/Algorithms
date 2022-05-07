@@ -21,7 +21,6 @@ class Solution:
             number_sum += carrier
             carrier = number_sum//10
             node = ListNode(number_sum%10)
-            
             tmp.next = node
             tmp = tmp.next
         
