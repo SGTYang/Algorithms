@@ -12,3 +12,4 @@ class Solution:
                 answer[i] = nums[right]**2
                 right -= 1
         return answer
+    
