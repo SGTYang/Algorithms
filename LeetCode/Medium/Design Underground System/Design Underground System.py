@@ -21,3 +21,4 @@ class UndergroundSystem:
         route = (startStation, endStation)
         time, freq = self.checkout_db[route]
         return time / freq
+    
