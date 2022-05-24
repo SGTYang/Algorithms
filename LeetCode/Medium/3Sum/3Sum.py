@@ -7,7 +7,6 @@ class Solution:
         
         if counter[0] >= 3: 
             ans.add((0, 0, 0))
-            
         pos, neg = [x for x in nums if x > 0], [x for x in nums if x < 0]
         
         for a in neg:
